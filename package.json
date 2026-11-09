@@ -1,0 +1,1 @@
+{"name":"prep-dep","version":"1.0.0","type":"module","main":"index.js","scripts":{"prepare":"bun scripts/init.js"}}
